@@ -1,9 +1,16 @@
 ## Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabio4489&show_icons=true&theme=tokyonight)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio4489&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fabio4489&theme=tokyonight)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fabio4489&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabio4489&theme=tokyonight)](https://git.io/streak-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fabio4489&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!--
