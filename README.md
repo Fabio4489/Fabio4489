@@ -1,11 +1,9 @@
 ## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fabio4489&theme=dark&locale=it)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabio4489&show_icons=true&theme=tokyonight)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio4489&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fabio4489)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fabio4489&theme=onedark)](https://github.com/Fabio4489/github-profile-trophy)
 
