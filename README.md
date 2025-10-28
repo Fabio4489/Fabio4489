@@ -8,8 +8,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabio4489&theme=tokyonight)](https://git.io/streak-stats)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fabio4489&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fabio4489&theme=onedark)](https://github.com/Fabio4489/github-profile-trophy)
 
 
 
