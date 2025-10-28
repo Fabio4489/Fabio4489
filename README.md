@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio4489&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fabio4489&theme=tokyonight)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabio4489&show_icons=true&theme=tokyonight)
 
